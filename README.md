@@ -21,8 +21,9 @@
 <img align='left' src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 
+<p align="center">
 End of my programming stack
-
+</p>
 
 # Version Control
 <img align='left' src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
