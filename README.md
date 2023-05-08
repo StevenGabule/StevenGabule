@@ -3,11 +3,12 @@
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=stevengabule&show_icons=true" />
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevengabule&layout=compact" />
 </p>
+ <br />
+ <br /> 
+ <br />
 
-
-<div>
 # Programming Stack
-</div>
+ <br />
 <p align="center" style="margin-bottom: 20px;">
 <img align='left' src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align='left' src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
