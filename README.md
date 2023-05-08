@@ -84,7 +84,12 @@
 <img align='left' src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img align='left' src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
+<br />
+<br />
 
+<p align="center">
+<img align='left' width='100%' src="https://github-readme-activity-graph.cyclic.app/graph?username=StevenGabule" />
+</p>
 
 
 
