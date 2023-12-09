@@ -5,10 +5,6 @@
 </p>
  <br />
 
-<p align="center">
-<img align='left' width='100%' src="https://github-readme-activity-graph.cyclic.app/graph?username=StevenGabule" />
-</p>
-
 # Little bit of me
 <p align="center">
  <img align='left' width='100%' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StevenGabule" />
